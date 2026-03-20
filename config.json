@@ -58,6 +58,20 @@
           "type": "csv"
         }
       ]
+    },
+    {
+      "id": "fastapi-apis",
+      "title": "FastAPI APIs",
+      "description": "Build and validate REST endpoints with FastAPI and Pydantic.",
+      "path": "assignments/fastapi-apis",
+      "dueDate": "2026-03-27",
+      "attachments": [
+        {
+          "name": "Starter Code",
+          "file": "starter-code.py",
+          "type": "python"
+        }
+      ]
     }
   ]
 }
